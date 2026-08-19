@@ -9,9 +9,7 @@ authors = ["duzchip"]
 license = "MIT"
 
 [worlds]
-match = [
-  "discworld.starturtle.net:23",
-]
+match = ["discworld.starturtle.net:*"]
 
 [permissions]
 sends = false
