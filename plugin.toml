@@ -1,6 +1,6 @@
 id = "net.discworld.beings-discworld-notes"
 name = "Being's Discworld Notes"
-version = "1.0.0"
+version = "1.0.2"
 language = "lua"
 entry = "src/main.lua"
 mallard_api_version = "1.0"
